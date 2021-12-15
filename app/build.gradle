@@ -17,6 +17,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'com.google.gms.google-services'
+apply plugin: 'androidx.navigation.safeargs'
 
 android {
     compileSdkVersion 30
@@ -65,4 +66,4 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 }
 
-apply plugin: 'com.google.gms.google-services'
+
