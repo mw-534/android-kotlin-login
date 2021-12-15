@@ -1,3 +1,6 @@
+Based on starter code of this Udacity repository:
+https://github.com/udacity/android-kotlin-login/tree/start
+
 Implementing Login on Android with FirebaseUI
 =========================
 
